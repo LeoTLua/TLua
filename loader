@@ -1,0 +1,5 @@
+if game.PlaceId == 4889315193 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/LeoTLua/TLua/refs/heads/main/Astro%20Lua'))()
+elseif game.PlaceId == 16116270224 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/LeoTLua/TLua/refs/heads/main/Astro%20Lua%20Dandy'))()
+end
