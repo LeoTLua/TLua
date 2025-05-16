@@ -8,4 +8,6 @@ elseif game.PlaceId == 7172152072 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/LeoTLua/TLua/refs/heads/main/Astro%20Lua'))()
 elseif game.PlaceId == 16116270224 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/LeoTLua/TLua/refs/heads/main/Astro%20Lua%20Dandy'))()
+else
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/LeoTLua/TLua/refs/heads/main/Astro%20Lua%20Universal'))()
 end
