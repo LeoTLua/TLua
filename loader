@@ -10,7 +10,7 @@ elseif game.PlaceId == 16116270224 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/LeoTLua/TLua/refs/heads/main/Astro%20Lua%20Dandy'))()
 elseif game.PlaceId == 142823291 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/LeoTLua/TLua/refs/heads/main/Astro%20Lua%20Murder%20Mystery%202'))()
-elseif game.PlaceId == 89400603683445 then
+elseif game.PlaceId == 82952370871195 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/LeoTLua/TLua/refs/heads/main/Astro%20Lua%20%E2%98%95CAPPUCCINO%20ASSASSINO%20PRISON%20RUN!'))()
 else
     loadstring(game:HttpGet('https://raw.githubusercontent.com/LeoTLua/TLua/refs/heads/main/Astro%20Lua%20Universal'))()
